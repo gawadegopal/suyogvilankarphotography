@@ -27,11 +27,11 @@ export const metadata: Metadata = {
     title: "Best Wedding Photographer in Ratnagiri | Top Photographer Suyog Vilankar",
     description:
       "Top-rated photographer in Ratnagiri capturing weddings, candid moments, pre-weddings, engagements, maternity & baby shoots with creative storytelling.",
-    url: "https://www.suyogvilankarphotography.netlify.app/",
+    url: "https://www.suyogvilankarphotography.vercel.app/",
     type: "website",
   },
   alternates: {
-    canonical: "https://www.suyogvilankarphotography.netlify.app/",
+    canonical: "https://www.suyogvilankarphotography.vercel.app/",
   },
   robots: {
     index: true,
@@ -44,13 +44,13 @@ export default function Home() {
     "@context": "https://schema.org",
     "@type": "WebPage",
     "name": "Best Wedding Photographer in Ratnagiri | Top Photographer Suyog Vilankar",
-    "url": "https://www.suyogvilankarphotography.netlify.app/",
+    "url": "https://www.suyogvilankarphotography.vercel.app/",
     "description":
       "Searching for the best wedding photographer in Ratnagiri? Suyog Vilankar specializes in wedding, candid, pre-wedding, engagement, maternity & baby photography across Ratnagiri & Sindhudurg.",
     "publisher": {
       "@type": "LocalBusiness",
       "name": "Suyog Vilankar Photography",
-      "url": "https://www.suyogvilankarphotography.netlify.app/",
+      "url": "https://www.suyogvilankarphotography.vercel.app/",
       "address": {
         "@type": "PostalAddress",
         "addressLocality": "Ratnagiri",

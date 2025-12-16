@@ -19,11 +19,11 @@ export const metadata: Metadata = {
         title: "Contact Suyog Vilankar Photography | Book a Photoshoot",
         description:
             "Reach out to book professional photography services including weddings, pre-weddings, maternity & more in Ratnagiri & Sindhudurg.",
-        url: "https://suyogvilankarphotography.netlify.app/contact",
+        url: "https://suyogvilankarphotography.vercel.app/contact",
         type: "website",
     },
     alternates: {
-        canonical: "https://suyogvilankarphotography.netlify.app/contact",
+        canonical: "https://suyogvilankarphotography.vercel.app/contact",
     },
     robots: {
         index: true,
@@ -36,7 +36,7 @@ export default function Contact() {
         "@context": "https://schema.org",
         "@type": "ContactPage",
         name: "Contact Suyog Vilankar Photography",
-        url: "https://suyogvilankarphotography.netlify.app/contact",
+        url: "https://suyogvilankarphotography.vercel.app/contact",
         description:
             "Contact page for booking wedding, pre-wedding, maternity, baby shower, and engagement photography services in Ratnagiri & Sindhudurg.",
         publisher: {

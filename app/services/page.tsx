@@ -21,11 +21,11 @@ export const metadata: Metadata = {
         title: "Photography Services in Ratnagiri | By Suyog Vilankar",
         description:
             "Discover premium photography services including weddings, pre-weddings, engagements, baby showers, maternity & more across Ratnagiri & Sindhudurg.",
-        url: "https://suyogvilankarphotography.netlify.app/services",
+        url: "https://suyogvilankarphotography.vercel.app/services",
         type: "website",
     },
     alternates: {
-        canonical: "https://suyogvilankarphotography.netlify.app/services",
+        canonical: "https://suyogvilankarphotography.vercel.app/services",
     },
     robots: {
         index: true,

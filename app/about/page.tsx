@@ -34,11 +34,11 @@ export const metadata: Metadata = {
         title: "About Suyog Vilankar | Top Wedding Photographer in Ratnagiri",
         description:
             "Civil engineer turned professional photographer — Suyog Vilankar is one of the top wedding photographers in Ratnagiri & Sindhudurg, capturing timeless emotions since 2020.",
-        url: "https://suyogvilankarphotography.netlify.app/about",
+        url: "https://suyogvilankarphotography.vercel.app/about",
         type: "profile",
     },
     alternates: {
-        canonical: "https://suyogvilankarphotography.netlify.app/about",
+        canonical: "https://suyogvilankarphotography.vercel.app/about",
     },
 };
 
@@ -50,7 +50,7 @@ export default function About() {
         jobTitle: "Wedding Photographer",
         description:
             "Professional wedding and candid photographer based in Ratnagiri & Sindhudurg. Specializing in emotional, artistic, and storytelling photography.",
-        url: "https://suyogvilankarphotography.netlify.app/about",
+        url: "https://suyogvilankarphotography.vercel.app/about",
         address: {
             "@type": "PostalAddress",
             addressLocality: "Ratnagiri",
