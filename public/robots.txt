@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://suyog-vilankar-photography.vercel.app
+Host: https://suyogvilankarphotography.netlify.app/
 
 # Sitemaps
-Sitemap: https://suyog-vilankar-photography.vercel.app/sitemap.xml
+Sitemap: https://suyogvilankarphotography.netlify.app/sitemap.xml
