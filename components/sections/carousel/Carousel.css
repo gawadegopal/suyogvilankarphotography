@@ -1,0 +1,49 @@
+.carousel-wrapper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.carousel-card {
+    display: flex;
+    flex: 1;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    opacity: 0;
+    pointer-events: none;
+    transition: 0.5s ease-in-out;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    gap: 16px;
+}
+
+.carousel-card-active {
+    opacity: 1;
+    transform: scale(1);
+    pointer-events: visible;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    gap: 16px;
+}
+
+.carousel-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.carousel-img-1 {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: top;
+}
